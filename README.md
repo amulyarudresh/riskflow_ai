@@ -4,7 +4,7 @@ A production-minded assignment implementation for automating vendor/compliance q
 
 ## Live Demo
 - App URL: `https://riskflowai.vercel.app`
-- Repository: `https://github.com/amulyarudresh/RiskFlow-AI/`
+- Repository: `https://github.com/amulyarudresh/riskflow_ai/`
 
 ## Company Context
 
