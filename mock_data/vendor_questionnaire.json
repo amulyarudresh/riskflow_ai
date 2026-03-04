@@ -1,0 +1,15 @@
+{
+  "title": "Vendor Security Assessment Questionnaire",
+  "questions": [
+    { "id": "q1", "text": "What encryption standards are used for data at rest and data in transit?" },
+    { "id": "q2", "text": "Is Multi-Factor Authentication (MFA) required for all contractor accounts accessing production?" },
+    { "id": "q3", "text": "Where is the primary application infrastructure hosted geographically?" },
+    { "id": "q4", "text": "Is your organization compliant with European GDPR regulations?" },
+    { "id": "q5", "text": "What is the guaranteed SLA for notifying clients after a Critical data breach?" },
+    { "id": "q6", "text": "Are all third-party vendors required to maintain SOC 2 Type II certification?" },
+    { "id": "q7", "text": "How frequently are third-party software libraries automatically scanned for vulnerabilities?" },
+    { "id": "q8", "text": "What foundational databases are used in your primary technology stack?" },
+    { "id": "q9", "text": "Does your organization conduct weekly phishing simulations for all employees?" },
+    { "id": "q10", "text": "What is the dedicated annual budget allocated for comprehensive cybersecurity initiatives?" }
+  ]
+}
