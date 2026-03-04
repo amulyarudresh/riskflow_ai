@@ -3,8 +3,8 @@
 A production-minded assignment implementation for automating vendor/compliance questionnaire responses using grounded retrieval and LLM generation.
 
 ## Live Demo
-- App URL: `<add-your-deployed-url>`
-- Repository: `<add-your-repo-url>`
+- App URL: `https://riskflowai.vercel.app`
+- Repository: `https://github.com/amulyarudresh/RiskFlow-AI/`
 
 ## Company Context
 
